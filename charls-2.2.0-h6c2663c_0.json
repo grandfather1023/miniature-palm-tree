@@ -1,0 +1,57 @@
+{
+  "build": "h6c2663c_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\charls-2.2.0-h6c2663c_0",
+  "files": [
+    "Library/bin/charls-2-x64.dll",
+    "Library/include/charls/annotations.h",
+    "Library/include/charls/api_abi.h",
+    "Library/include/charls/charls.h",
+    "Library/include/charls/charls_jpegls_decoder.h",
+    "Library/include/charls/charls_jpegls_encoder.h",
+    "Library/include/charls/jpegls_error.h",
+    "Library/include/charls/public_types.h",
+    "Library/include/charls/version.h",
+    "Library/lib/charls-2-x64.lib",
+    "Library/lib/cmake/charls/charlsConfig-release.cmake",
+    "Library/lib/cmake/charls/charlsConfig.cmake",
+    "Library/lib/pkgconfig/charls.pc",
+    ".nonadmin"
+  ],
+  "fn": "charls-2.2.0-h6c2663c_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\charls-2.2.0-h6c2663c_0",
+    "type": 1
+  },
+  "md5": "c01c4a322b5b9d7dea7af34bef0cd245",
+  "name": "charls",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\charls-2.2.0-h6c2663c_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/charls.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/charls_1612240600328/_h_env",
+        "sha256": "fa4061260e7c12b4bd71f0a99bc7a33b17a2af8d47221cd442669a368471a965",
+        "sha256_in_prefix": "f7adfbfce03852138064fd0a4353f4fbc7e0f4c4e3f894bbefa5b787b8249182",
+        "size_in_bytes": 330
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::charls==2.2.0=h6c2663c_0[md5=c01c4a322b5b9d7dea7af34bef0cd245]",
+  "sha256": "85f9c1e2aa21e1e3017e8d8d556fcd60688302c25eb9b666c5876ffe79b38bef",
+  "size": 83775,
+  "subdir": "win-64",
+  "timestamp": 1612240685000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/charls-2.2.0-h6c2663c_0.conda",
+  "version": "2.2.0"
+}
